@@ -1,2 +1,2 @@
-# Spam_News_Checker
-It is a web application project based on AI/ML
+#  Fake News📰 Classification WebApp using Python
+It is a project based om AI/ML
